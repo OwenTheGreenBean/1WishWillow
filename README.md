@@ -1,8 +1,8 @@
 # 1WishWillow
 
-*Not associate with the Capstone Pictures, Tea Shop Productions, or Blumhouse Productions this project is just for fun.
+*Not associate with the Capstone Pictures, Tea Shop Productions, or Blumhouse Productions this project is just for fun.*
 
-This repo contains files to print the box for one wish willow and the STL file to print your own.
+This repo contains files to print the box for one wish willow and the STL file to print your own. **Feel free to distribute these files however you want**
 
 <img width="603" height="1311" alt="IMG_8597" src="https://github.com/user-attachments/assets/9e2fe1f3-cde3-4427-b5ee-77a31b2633bd" />
 <img width="603" height="1311" alt="IMG_8598" src="https://github.com/user-attachments/assets/087d18c6-5739-4679-b903-93551d308395" />
