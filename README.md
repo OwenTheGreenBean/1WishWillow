@@ -14,5 +14,7 @@ This repo contains files to print the box for one wish willow and the STL file t
 - I used PLA for the 3D print takes about 45 minutes to make (may need some scaling)
 - I used AI to recreate the box from images from the movie
 
-Recently I add a non AI version of the box from a help comment on a reddit thread. Thank you Slavkan12 u/Slavkan12 
+*Update*
+
+Recently I added a non AI version of the box from a helpful comment on a reddit thread. Thank you Slavkan12 u/Slavkan12 
 https://www.reddit.com/user/Slavkan12/
