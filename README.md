@@ -1,5 +1,7 @@
 # 1WishWillow
 
+https://www.reddit.com/r/obsessionmovie/comments/1tnm2ag/diy_one_wish_willow/
+
 *Not associate with the Capstone Pictures, Tea Shop Productions, or Blumhouse Productions this project is just for fun.*
 
 This repo contains files to print the box for one wish willow and the STL file to print your own. **Feel free to distribute these files however you want**
@@ -11,3 +13,6 @@ This repo contains files to print the box for one wish willow and the STL file t
 - I reccomend using a heavy paper like 40lb for the box as it gives it a more ridgid feel
 - I used PLA for the 3D print takes about 45 minutes to make (may need some scaling)
 - I used AI to recreate the box from images from the movie
+
+Recently I add a non AI version of the box from a help comment on a reddit thread. Thank you Slavkan12 u/Slavkan12 
+https://www.reddit.com/user/Slavkan12/
